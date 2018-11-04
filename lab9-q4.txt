@@ -1,0 +1,14 @@
+temp = A
+temp = C
+temp = B
+temp = A
+
+ ptr = 4435
+temp = B
+temp = C
+
+ ptr = 4434 
+temp = B 
+temp = B
+temp = A
+temp = A

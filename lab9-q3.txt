@@ -1,0 +1,2 @@
+double *p = &c should holds the address of a dubble but &c gives address of an char; that's why shows error.
+ 
