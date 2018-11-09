@@ -1,2 +1,5 @@
-double *p = &c should holds the address of a dubble but &c gives address of an char; that's why shows error.
- 
+
+
+Since 'p' is a double-type pointer it can only store an address of double-type variables.
+But '&c' is an address of char-type variable 'c', so a compilation error will appear in the terminal.
+
