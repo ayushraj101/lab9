@@ -3,12 +3,13 @@ temp = C
 temp = B
 temp = A
 
- ptr = 4435
+ptr = BC
 temp = B
 temp = C
 
- ptr = 4434 
-temp = B 
+ptr = ABC
 temp = B
+temp = C
+temp = C
 temp = A
 temp = A
